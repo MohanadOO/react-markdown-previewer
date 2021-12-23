@@ -71,3 +71,8 @@ textarea {
   width: 50%;
   height: 50%;
 }
+
+#preview table, td, th{
+  border-color: black;
+  border: 1px solid black;
+}
